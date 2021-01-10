@@ -11,7 +11,16 @@ My current knowledge covers:
 
 :sunglasses: I like the versatility of full stack development us it allows me to understand and control the complete workflow of any project.
 
-🔭 Currently improving my knowledge on data streaming.
+🔭 Currently working, learning and growing my skillset in data streaming with kafka and socket-io.
+
+📝 Eager to improve my communication skills. Check my posts on medium!
+
+<details open> 
+  <summary><b>📑 My latest Medium articles</b>:</summary>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mzabalza/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mzabalza/0" alt="Recent Article 0">
+  </a>
+</details>
 
 
 <!--
