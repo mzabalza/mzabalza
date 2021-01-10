@@ -9,9 +9,9 @@ My current knowledge covers:
 * Deployment: Docker, Nginx.
 * Data Manipulation: Pandas, sql, kafka
 
-:sunglasses:I like the versatility of full stack development us it allows me to understand and control the complete workflow of any project.
+:sunglasses: I like the versatility of full stack development us it allows me to understand and control the complete workflow of any project.
 
-🔭currently improving my knowledge on data streaming.
+🔭 Currently improving my knowledge on data streaming.
 
 
 <!--
