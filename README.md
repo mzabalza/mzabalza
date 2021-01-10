@@ -1,7 +1,7 @@
 ### 👋 I'm Mikel
 
 Im Passionate about computer science. 
-Im interested and continuously learning about every layer of web development process.
+Continuously learning about every layer of web development process.
 My current knowledge covers:
 * Back: Flask, NodeJS
 * Front: React
@@ -9,7 +9,7 @@ My current knowledge covers:
 * Deployment: Docker, Nginx.
 * Data Manipulation: Pandas, sql, kafka
 
-:sunglasses:I like the versatiluty of full stack development us it allows me to control and understand and control the complete workflow of a project.
+:sunglasses:I like the versatility of full stack development us it allows me to understand and control the complete workflow of any project.
 
 🔭currently improving my knowledge on data streaming.
 
