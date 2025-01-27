@@ -3,10 +3,10 @@
 Im Passionate about computer science. 
 Continuously learning about every layer of web development process.
 My current knowledge covers:
-* Back: Flask, NodeJS
-* Front: React
+* Back: Python:FastAPI, Flask, Typescript NestJs
+* Front: React, Next
 * Db: MongoDB, PostgresSQL, Elasticsearch
-* Deployment: Docker, Nginx.
+* Deployment: Docker, k8s
 * Data Manipulation: Pandas, sql, kafka
 
 :sunglasses: I like the versatility of full stack development us it allows me to understand and control the complete workflow of any project.
